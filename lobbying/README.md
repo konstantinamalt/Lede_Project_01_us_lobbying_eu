@@ -3,10 +3,10 @@
 #### [Here](https://konstantinamalt.github.io/us_lobbying_eu/) is the project's website.
 #### [Here](https://github.com/konstantinamalt/Lede_Project_01_us_lobbying_eu/blob/main/lobbying/Project_01.ipynb) is the project's analysis and original dataset.
 
-## Project's goal
+## Project's goal:
 #### With this project I wanted to see how many US companies and groups are lobbying the EU, how much money they have spent on lobbying, and which EU files are they targeting, in an attempt to find trends regarding US interests in EU legislation and policies and highlight corporate influence on citizens' lives, while practicing my skills in scraping with BeautifulSoup, data analysis with pandas and scrolly-telling visualisations. However, during the analysis I realised the biggest issue was the lack of transparency regarding US lobbying.
 
-## Findings
+## Findings:
 - #### US influence in the EU is more powerful than ever.
 - #### US lobbying companies in the EU are increasing by hundreds while the money spent from their activity is increasing by millions. Since 2021, the lobbying costs have risen by 44 % in 2023, while in a four year period from 2017 to 2021, the money spent for lobbying increased only by 8 %. 
 - #### Big Tech is lobbying Europe's digital economy, and is the top 10 US lobbyist in the EU for 2023.
@@ -30,7 +30,7 @@
 ## Visualisation:
 #### Flourish
 
-## Page Template
+## Page Template:
 [Code written by Jonathan Soma](https://github.com/jsoma/page-templates/blob/main/scrolly-images/index.html).
 
 # File's index:
