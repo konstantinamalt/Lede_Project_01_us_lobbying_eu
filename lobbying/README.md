@@ -30,6 +30,9 @@
 ## Visualisation:
 #### Flourish
 
+## Page Template
+[Code written by Jonathan Soma](https://github.com/jsoma/page-templates/blob/main/scrolly-images/index.html).
+
 # File's index:
 #### lobby_usa_eu.csv = the original dataset from EU Transparency Register with the names and registration numbers of each company
 #### Project_01.ipynb = pyrhon code with data collection, cleaning and analysis.
