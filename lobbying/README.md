@@ -41,5 +41,5 @@
 #### 1. Able to find my way around my lack of Selenium knowledge, since the website I wanted to scrape had dynamic content. Although I would love to have learned Selenium for this.
 #### 2. Used scraping and a for loop to download, read and and create a big dataset which I had never done before. Also scraped 314 sites in a forloop, got the tags I wanted, and created a dataset, which in the end I didn't use because it only had one year.
 #### 3. Able to get 80% of the analysis I wanted. The other 20% was to be able to identify trends regarding the main EU files, but could not structure my df properly for that since there were more than one values in one cell divided by commas.
-#### 4. File organisation was not the greatest which created issues while uploading my work on Github..
+#### 4. File organisation was not the greatest which created issues while uploading my work on Github.
 #### 5. Would love to had the time to create more visualisations.
