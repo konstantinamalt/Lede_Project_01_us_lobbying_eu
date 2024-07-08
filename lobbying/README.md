@@ -10,7 +10,7 @@
 - #### US influence in the EU is more powerful than ever.
 - #### US lobbying companies in the EU are increasing by hundreds while the money spent from their activity is increasing by millions. Since 2021, the lobbying costs have risen by 44 % in 2023, while in a four year period from 2017 to 2021, the money spent for lobbying increased only by 8 %. 
 - #### Big Tech is lobbying Europe's digital economy, and is the top 10 US lobbyist in the EU for 2023.
-- #### Microsoft ramped up its spending by 40 percent since 2022, and is at the biggest spender in 2023 alongside Apple, with 7 million euros in lobbying spending each.
+- #### Microsoft ramped up its spending by 40 percent since 2022, and is the biggest spender in 2023 alongside Apple, with 7 million euros in lobbying spending each.
 - #### Out of the total 314 companies, 149 have declared lobbying costs, that in 20 cases reach up to 1 million euros each, but do not appear to have participated in any meetings. These 149 companies appear to have spent in total at least 61 million euros from 2014-2023.
 
 ## Data collection and cleaning (Python, Pandas, BeautifulSoup):
