@@ -14,7 +14,7 @@
 - #### Out of the total 314 companies, 149 have declared lobbying costs, that in 20 cases reach up to 1 million euros each, but do not appear to have participated in any meetings. These 149 companies appear to have spent in total at least 61 million euros from 2014-2023.
 
 ## Data collection and cleaning (Python, Pandas, BeautifulSoup):
-#### 1. Downloaded CSV file with data regarding the names and registration nymber of the US companies lobbying the EU from the EU Transparency Register.
+#### 1. Downloaded CSV file with data regarding the names and registration number of the US companies lobbying the EU from the EU Transparency Register.
 #### 2. Used python and scraping with BeautifulSoup to collect data for the companies' financial information, by creating the 314 URLs (using the site LobbyFacts as a base url and their registration number from my original CSV file) to download the CSV files of each company, storing them in a dataframe and merging them together. Data for the meetings was also collected in the same way again from LobbyFacts website.
 #### 3. Cleaned the duplicates.
 
