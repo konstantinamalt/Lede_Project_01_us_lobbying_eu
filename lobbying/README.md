@@ -15,7 +15,7 @@
 
 ## Data collection and cleaning (Python, Pandas, BeautifulSoup):
 #### 1. Downloaded CSV file with data regarding the names and registration number of the US companies lobbying the EU from the EU Transparency Register.
-#### 2. Used python and scraping to collect data for the companies' financial information, by creating the 314 URLs (using the site LobbyFacts as a base url and their registration number from my original CSV file) to download the CSV files of each company, storing them in a dataframe and merging them together. Data for the meetings was also collected in the same way again from LobbyFacts website.
+#### 2. Used python and scraping to collect data for the companies' financial information, by creating the 314 URLs (using the site LobbyFacts as a base url and the registration number of the companies from my original CSV file) to download the CSV files of each company, storing them in a dataframe and merging them together. Data for the meetings was also collected in the same way again from LobbyFacts website.
 #### 3. Cleaned the duplicates.
 
 ## Data analysis (Pandas and Jupyter Notebook):
