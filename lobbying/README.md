@@ -35,11 +35,11 @@
 
 # File's index:
 #### lobby_usa_eu.csv = the original dataset from EU Transparency Register with the names and registration numbers of each company
-#### Project_01.ipynb = pyrhon code with data collection, cleaning and analysis.
+#### Project_01.ipynb = python code with data collection, cleaning and analysis.
 
 # Success & Failures:
-#### 1. I was able to find my way around my lack of Selenium knowledge, since the website I wanted to scrape had dynamic content. Although I would love to have learned Selenium for this.
-#### 2. I used scraping and a for loop to download, read and and create a big dataset which I had never done before.
-#### 3. I was able to get 80% of the analysis I wanted. The other 20% was to be able to identify trends regarding the main EU files, but could not structure my df properly for that since there were more than one values in one cell divided by commas.
-#### 4. My file organisation was not the greatest which created issues while uploading my work on Github..
-#### 5. I would love to had the time to create more visualisations we have learned.
+#### 1. Able to find my way around my lack of Selenium knowledge, since the website I wanted to scrape had dynamic content. Although I would love to have learned Selenium for this.
+#### 2. Used scraping and a for loop to download, read and and create a big dataset which I had never done before.
+#### 3. Able to get 80% of the analysis I wanted. The other 20% was to be able to identify trends regarding the main EU files, but could not structure my df properly for that since there were more than one values in one cell divided by commas.
+#### 4. File organisation was not the greatest which created issues while uploading my work on Github..
+#### 5. Would love to had the time to create more visualisations.
