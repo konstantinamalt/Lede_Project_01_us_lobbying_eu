@@ -1,7 +1,7 @@
 # How transparent is US influence in EU legislation?
 #### This project was created within the scope of the Lede Program 2024, at Columbia Journalism School.
 #### [Here](https://konstantinamalt.github.io/us_lobbying_eu/) is the project's website.
-#### [Here](https://github.com/konstantinamalt/Lede_Project_01_us_lobbying_eu/blob/main/lobbying/Project_01.ipynb) it's the project's analysis and original dataset.
+#### [Here](https://github.com/konstantinamalt/Lede_Project_01_us_lobbying_eu/blob/main/lobbying/Project_01.ipynb) is the project's analysis and original dataset.
 
 ## Project's goal
 #### With this project I wanted to see how many US companies and groups are lobbying the EU, how much money they have spent on lobbying, and which EU files are they targeting, in an attempt to find trends regarding US interests in EU legislation and policies, while practicing my skills in scraping with BeautifulSoup, data analysis with pandas and scrolly-telling visualisations.
