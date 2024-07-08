@@ -1,5 +1,5 @@
 # How transparent is US influence in EU legislation?
-#### This is a project was created within the scope of the Lede Program 2024, at Columbia Journalism School.
+#### This project was created within the scope of the Lede Program 2024, at Columbia Journalism School.
 #### [Here](https://konstantinamalt.github.io/us_lobbying_eu/) is the project's website.
 #### [Here](https://github.com/konstantinamalt/Lede_Project_01_us_lobbying_eu/blob/main/lobbying/Project_01.ipynb) it's the project's analysis and original dataset.
 
