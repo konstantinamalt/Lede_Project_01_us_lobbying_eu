@@ -20,7 +20,7 @@
 
 ## Data analysis (Pandas and Jupyter Notebook):
 #### 1. Money spent by US companies in total yearly
-#### 2. Top 10 biggest lobbyists in 2023 and 2022.
+#### 2. Top 10 biggest lobbyists in 2023 and 2022
 #### 3. Biggest lobbyists over a decade (2014-2023)
 #### 4. Lobbyists with the most meetings over the decade
 #### 5. Lobbyists with no meetings, but lobbying costs in the decade
